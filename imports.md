@@ -1,5 +1,4 @@
-### Here is an example of importing data:[¶](#Here-is-an-example-of-importing-data:) {#Here-is-an-example-of-importing-data:}
-
+### Here is an example of importing data:
 In [0]:
 
     import imageio
