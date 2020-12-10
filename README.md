@@ -11,17 +11,17 @@ How I initially import data to begin a project is demonstrated [here](imports.md
 
 
 ### Cleaning data
-After importing data, it needs to be cleaned! The cleaning can be seen [here](Several ways to clean data.md.webarchive)
+After importing data, it needs to be cleaned! The cleaning can be seen [here](cleaning.md)
 
 
 ### Working with NumPy arrays
-Throughout this semester I've become used to working with 2D Numpy Arrays. [Here](NumPyarraysportfolio.md.webarchive) is an example!
+Throughout this semester I've become used to working with 2D Numpy Arrays. [Here](portfolio_work.md) is an example!
 
 ### Manipulating Data
-I am able to manipulate data in several ways, shown [here](Manipulating data.md.webarchive) 
+I am able to manipulate data in several ways, shown [here](manipulating_data.md) 
 
 ### Visualizing Data
-There are several ways to visualize data, here are some [examples](https://github.com/JillFennell/Portfolio-2/blob/main/Data%20visualization.md.webarchive)
+There are several ways to visualize data, here are some [examples]
 
 
 
