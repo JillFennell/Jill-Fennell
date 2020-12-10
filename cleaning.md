@@ -1,4 +1,4 @@
-### Some data requires cleaning! Here are some ways I can do that[
+### Some data requires cleaning! Here are some ways I can do that
 #### First, I'm able to remove what is not needed
 In [0]:
 
