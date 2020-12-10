@@ -1,0 +1,18 @@
+### Here is an example of combining reaction times and error into a 2D NumPy array[¶](#Here-is-an-example-of-combining-reaction-times-and-error-into-a-2D-NumPy-array) {#Here-is-an-example-of-combining-reaction-times-and-error-into-a-2D-NumPy-array}
+
+In [0]:
+
+    np_err = np.array(err)
+    dat = np.array((np_rt_ms, np_err))
+    print(dat)
+
+In [0]:
+
+    [[394.252808 442.094359 534.764366 565.906723 570.404592 486.154719
+      518.792127 844.916827 495.622859 476.159436 612.854746 529.661203
+      389.157455 517.088266 573.962432 714.152493 409.225638 435.308188
+      509.801957 544.626271 437.877745 333.356848 401.773569 479.840688]
+     [  0.         0.         1.         0.         0.         0.
+        0.         0.         1.         0.         0.         1.
+        0.         0.         0.         0.         1.         1.
+        1.         0.         0.         0.         0.         0.      ]]
