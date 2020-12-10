@@ -7,7 +7,7 @@ If you have any questions please email me at [jfennell@dal.ca](mailto:jfennell@d
 
 
 ### Importing Data
-How I initially import data to begin a project is demonstrated [here](importing data for portfolio.md.webarchive)
+How I initially import data to begin a project is demonstrated [here](imports.md)
 
 
 ### Cleaning data
