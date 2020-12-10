@@ -21,7 +21,7 @@ Throughout this semester I've become used to working with 2D Numpy Arrays. [Here
 I am able to manipulate data in several ways, shown [here](Manipulating data.md.webarchive) 
 
 ### Visualizing Data
-There are several ways to visualize data, here are some [examples](Data visualization.md.webarchive)
+There are several ways to visualize data, here are some [examples](https://github.com/JillFennell/Portfolio-2/blob/main/Data%20visualization.md.webarchive)
 
 
 
