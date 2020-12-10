@@ -1,5 +1,4 @@
-### Here is an example of combining reaction times and error into a 2D NumPy array[¶](#Here-is-an-example-of-combining-reaction-times-and-error-into-a-2D-NumPy-array) {#Here-is-an-example-of-combining-reaction-times-and-error-into-a-2D-NumPy-array}
-
+### Here is an example of combining reaction times and error into a 2D NumPy array
 In [0]:
 
     np_err = np.array(err)
