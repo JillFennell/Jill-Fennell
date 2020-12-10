@@ -1,14 +1,13 @@
-### Some data requires cleaning! Here are some ways I can do that[¶](#Some-data-requires-cleaning!-Here-are-some-ways-I-can-do-that) {#Some-data-requires-cleaning!-Here-are-some-ways-I-can-do-that}
+### Some data requires cleaning! Here are some ways I can do that
 
-#### First, I'm able to remove what is not needed[¶](#First,-I'm-able-to-remove-what-is-not-needed) {#First,-I'm-able-to-remove-what-is-not-needed}
-
+#### First, I'm able to remove what is not needed
 In [0]:
 
     df = df[df.block != ‘practice’]
 
-#### Next, I'm capable of creating loops to further clean data.[¶](#Next,-I'm-capable-of-creating-loops-to-further-clean-data.) {#Next,-I'm-capable-of-creating-loops-to-further-clean-data.}
+#### Next, I'm capable of creating loops to further clean data.
 
-##### This is a loop that I helped create in a group project.[¶](#This-is-a-loop-that-I-helped-create-in-a-group-project.) {#This-is-a-loop-that-I-helped-create-in-a-group-project.}
+##### This is a loop that I helped create in a group project.
 
 In [0]:
 
@@ -43,7 +42,7 @@ In [0]:
         fast_list.append(fast)
         slow_list.append(slow)
 
-### Finally, I can organize data[¶](#Finally,-I-can-organize-data) {#Finally,-I-can-organize-data}
+### Finally, I can organize data
 
 In [0]:
 
