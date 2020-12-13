@@ -1,6 +1,6 @@
 ### I am able to visualize data in different ways[¶](#I-am-able-to-visualize-data-in-different-ways) {#I-am-able-to-visualize-data-in-different-ways}
 
-#### Here is an example where I used different functions to perform image analysis[¶](#Here-is-an-example-where-I-used-different-functions-to-perform-image-analysis) {#Here-is-an-example-where-I-used-different-functions-to-perform-image-analysis}
+#### Here is an example where I used different functions to perform image analysis
 
 In [0]:
 
@@ -8,16 +8,17 @@ In [0]:
     plt.axis('off')
     plt.show()
 
-### Here is an example of using seaborn to visualize data[¶](#Here-is-an-example-of-using-seaborn-to-visualize-data) {#Here-is-an-example-of-using-seaborn-to-visualize-data}
-
+### Here is an example of using seaborn to visualize data
 In [0]:
 
     # Error rate barplot showing simon and flanker conditions
     sns.catplot(kind = 'bar', data = df, y = 'error', hue = 'simon', x = 'flankers', palette = 'colorblind', ci=None)
     plt.title('Figure 2 (ERROR RATE)')
     plt.show()
+    
 
-#### This is how I can use subplots to further organize my data visualization[¶](#This-is-how-I-can-use-subplots-to-further-organize-my-data-visualization) {#This-is-how-I-can-use-subplots-to-further-organize-my-data-visualization}
+
+#### This is how I can use subplots to further organize my data visualization
 
 In [0]:
 
@@ -34,9 +35,11 @@ In [0]:
     #render the figure 
     plt.show()
 
-#### I am also able to mask different images[¶](#I-am-also-able-to-mask-different-images) {#I-am-also-able-to-mask-different-images}
+#### I am also able to mask different images
 
-#### Finally, I can overlay colormaps[¶](#Finally,-I-can-overlay-colormaps) {#Finally,-I-can-overlay-colormaps}
+
+
+#### Finally, I can overlay colormaps
 
 In [0]:
 
