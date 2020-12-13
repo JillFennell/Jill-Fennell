@@ -10,7 +10,7 @@
 <img width="200"  src=''>
 
 ### Here is an example of using seaborn to visualize data
-In [0]:
+
 
     # Error rate barplot showing simon and flanker conditions
     sns.catplot(kind = 'bar', data = df, y = 'error', hue = 'simon', x = 'flankers', palette = 'colorblind', ci=None)
