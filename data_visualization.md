@@ -1,12 +1,13 @@
-### I am able to visualize data in different ways[¶](#I-am-able-to-visualize-data-in-different-ways) {#I-am-able-to-visualize-data-in-different-ways}
+### I am able to visualize data in different ways
 
 #### Here is an example where I used different functions to perform image analysis
-
-In [0]:
 
     plt.imshow(ndi.rotate(vol[:, :, 79], angle = 180), cmap='gray')
     plt.axis('off')
     plt.show()
+
+
+<img width="200"  src=''>
 
 ### Here is an example of using seaborn to visualize data
 In [0]:
@@ -19,8 +20,6 @@ In [0]:
 
 
 #### This is how I can use subplots to further organize my data visualization
-
-In [0]:
 
     fig = plt.figure(figsize = [8, 12])
     subplot_counter = 1
@@ -37,10 +36,10 @@ In [0]:
 
 #### I am also able to mask different images
 
-
+<img width="200"  src='a-6.png'>
 
 #### Finally, I can overlay colormaps
 
-In [0]:
+<img width="200"  src='a-7.png'>
 
      
