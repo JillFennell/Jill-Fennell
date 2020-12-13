@@ -1,6 +1,6 @@
 ### Some data requires cleaning! Here are some ways I can do that
 #### First, I'm able to remove what is not needed
-In [0]:
+
 
     df = df[df.block != ‘practice’]
 
@@ -8,7 +8,7 @@ In [0]:
 
 ##### This is a loop that I helped create in a group project.
 
-In [0]:
+
 
     # For loop: Data Cleaning
     processed_dataframes = []
@@ -43,7 +43,6 @@ In [0]:
 
 ### Finally, I can organize data
 
-In [0]:
 
     np_err = np.array(err) 
     dat = np.array((np_rt_ms, np_err))
