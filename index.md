@@ -1,5 +1,6 @@
 # Portfolio-2
 This portfolio displays different code and skills I've acquired throughout this semester.
+<img width="200" src="IMG_2300.JPG">
 
 I am a 3rd year student majoring in Neuroscience, minoring in Economics, and working towards a certificate in Neurotechnology and innovation. This is my portfolio, representing different skills I have learned this semester in my Neural Data Science course.
 
