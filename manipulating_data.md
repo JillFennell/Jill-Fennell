@@ -3,11 +3,10 @@
 #### These are examples where I performed conversions, applied methods, and functions to the data.
 
 
-
     ean_rt= np.mean(rt_conversion).round(1) 
     print(“Mean RT = “ + str(mean_rt) + “ ms”)
 
-# 
+
 
     std_rt = np.std(rt_conversion).round(2) 
     print(“Standard deviation = “ + str(std_rt) + “ ms”)
