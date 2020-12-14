@@ -19,7 +19,7 @@
     plt.show()
     
     
-<img width="200"  src="a-4.png">
+<img width="300"  src="a-4.png">
 
 #### This is how I can use subplots to further organize my data visualization
 
@@ -36,7 +36,7 @@
     #render the figure 
     plt.show()
     
- <img width="200"  src="a-5.png">
+ <img width="400"  src="a-5.png">
 
 #### I am also able to mask different images
 
@@ -65,4 +65,4 @@
         
     plt.show()
 
-<img width="200"  src="a-7.png">
+<img width="400"  src="a-7.png">
