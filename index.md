@@ -11,7 +11,7 @@ If you have any questions please email me at [jfennell@dal.ca](mailto:jfennell@d
 How I initially import data to begin a project is demonstrated [here](imports.md)
 
 
-### Cleaning data
+### Cleaning Data
 After importing data, it needs to be cleaned! The cleaning can be seen [here](cleaning.md)
 
 
