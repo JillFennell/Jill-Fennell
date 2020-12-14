@@ -45,7 +45,7 @@
     plt.axis('off')
     plt.show()
     
-    <img width="200"  src="a-6.png">
+ <img width="200"  src="a-6.png">
 
 #### Finally, I can overlay colormaps
 
