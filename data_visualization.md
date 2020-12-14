@@ -40,6 +40,24 @@
 
 #### Finally, I can overlay colormaps
 
+thresh_zstat= np.where(fmri_zstat_data > z_thresh, fmri_zstat_data, np.nan)
+fig = plt.figure(figsize=[8, 12])
+subplot_counter = 1
+
+ 
+
+for ii in range(0,27,3):
+    fig.add_subplot(3,3,subplot_counter)
+    plt.imshow(underlay[:,:,ii],cmap= 'gray')
+    plt.imshow(thresh_zstat[:,:,ii],
+               cmap='seismic', vmin= -8,
+               vmax= 8)
+    plt.axis('off')
+    plt.tight_layout()
+    subplot_counter += 1 
+    
+plt.show()
+
 <img width="200"  src='a-7.png'>
 
      
