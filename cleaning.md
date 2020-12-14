@@ -6,7 +6,7 @@
 
 #### Next, I'm capable of creating loops to further clean data.
 
-##### This is a loop that I helped create in a group project. Raw data was imported and required cleaning. Below, the cleaning steps are labelled by the lines that are commented out. This massive loop works to get data ready to work with.
+##### This is a loop that I helped create in a group project. Raw data was imported and required cleaning. Below, the cleaning steps are labelled by the lines that are commented out. This massive loop was created with the purpose to get data ready to work with.
 
 
 
