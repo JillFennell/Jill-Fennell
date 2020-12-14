@@ -17,6 +17,8 @@
     sns.catplot(kind = 'bar', data = df, y = 'error', hue = 'simon', x = 'flankers', palette = 'colorblind', ci=None)
     plt.title('Figure 2 (ERROR RATE)')
     plt.show()
+    
+    
 <img width="200"  src="a-4.png">
 
 #### This is how I can use subplots to further organize my data visualization
@@ -34,7 +36,7 @@
     #render the figure 
     plt.show()
     
-    <img width="200"  src="a-5.png">
+ <img width="200"  src="a-5.png">
 
 #### I am also able to mask different images
 
